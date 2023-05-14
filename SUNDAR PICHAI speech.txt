@@ -1,0 +1,304 @@
+SUNDAR PICHAI: Good morning, everyone.
+Welcome to Google I/O.
+It's great to see so many of you here at Shoreline,
+so many developers.
+And a huge thanks to the millions
+joining from around the world, from Bangladesh, to Brazil,
+to our new Bayview campus right next door.
+It's so great to have you as always.
+As you may have heard, AI is having a very busy year.
+So we've got lots to talk about.
+Let's get started.
+Seven years into our journey, as an AI first company,
+we are at an exciting inflection point.
+We have an opportunity to make AI even more helpful
+for people, for businesses, for communities, for everyone.
+We have been applying AI to make our products radically more
+helpful for a while.
+With generative AI, we are taking the next step.
+With a bold and responsible approach,
+we are reimagining all our core products, including search.
+You will hear more later in the keynote.
+Let me start with few examples of how
+generative AI is helping to evolve our products,
+starting with Gmail.
+In 2017, we launched Smart Reply,
+short responses you could select with just one click.
+Next came Smart Compose, which offered writing suggestions
+as you type.
+Smart Compose led to more advanced writing features
+powered by AI.
+They've been used in Workspace over 180 billion times
+in the past year alone.
+And now with a much more powerful generative model,
+we are taking the next step in Gmail with Help Me Write.
+Let's say you got this email that your flight was canceled.
+The airline had sent a voucher.
+But what you really want is a full refund.
+You could reply and use Help Me Write.
+Just type in the prompt of what you
+want, an email to ask for a full refund, hit Create,
+and a full draft appears.
+As you can see, it conveniently pulled in flight details
+from the previous email.
+And it looks pretty close to what you want to send.
+Maybe you want to refine it further.
+In this case, a more elaborate email
+might increase the chances of getting the refund.
+And there you go.
+I think it's ready to send.
+Help Me Write we'll start rolling out as part
+of our Workspace updates.
+And just like with Smart Compose,
+you will see it get better over time.
+The next example is Maps.
+Since the early days of Street View,
+AI has stitched together billions of panoramic images,
+so people can explore the world from their device.
+At last year's I/O we introduced immersive view,
+which uses AI to create a high-fidelity
+representation of a place, so you can experience it
+before you visit.
+Now we are expanding that same technology
+to do what Maps does best, help you get where you want to go.
+Google Maps provides 20 billion kilometers
+of directions every day.
+That's a lot of trips.
+Imagine if you could see your whole trip in advance.
+With Immersive View for Routes now
+you can, whether you're walking, cycling, or driving.
+Let me show you what I mean.
+Say, I'm in New York City, and I want to go on a bike ride.
+Maps has given me a couple of options close to where I am.
+I like the one on the waterfront,
+so let's go with that.
+Looks scenic.
+And I want to get a feel for it first.
+Click on Immersive View for Routes.
+And it's an entirely new way to look at my journey.
+I can zoom in to get an incredible bird's eye
+view of the ride.
+And as we turn, we get onto a great bike path.
+It looks like it's going to be a beautiful ride.
+You can also check today's air quality.
+Looks like AQI is 43, pretty good.
+And if I want to check traffic and weather,
+and see how they might change over the next few hours,
+I can do that.
+Looks like it's going to pour later.
+So maybe I want to get going now.
+Immersive View for Routes will begin
+to roll out over the summer and launch in 15 cities
+by the end of the year, including London, New
+York, Tokyo, and San Francisco.
+Another product made better by AI is Google Photos.
+We introduced it at I/O in 2015.
+It was one of our first AI-native products.
+Breakthroughs in machine-learning
+made it possible to search your photos for things like people,
+sunsets, or waterfalls.
+Of course, we want you to do more than just search photos.
+We also want to help you make them better.
+In fact, every month 1.7 billion images
+are edited in Google Photos.
+AI advancements give us more powerful ways to do this.
+For example, Magic Eraser, launched first on Pixel,
+uses AI-powered computational photography
+to remove unwanted distractions.
+And later this year, using a combination
+of semantic understanding and generative
+AI, you can do much more with a new experience
+called Magic Editor.
+Let's have a look.
+Say, you are on a hike, and you stop
+to take a photo in front of a waterfall.
+You wish you had taken your bag off for the photo.
+So let's go ahead and remove that back strap.
+The photo feels a bit dark, so you can improve the lighting.
+And maybe you want to even get rid of some clouds
+to make it feel as sunny as you remember it.
+Looking even closer, you wish you
+had posed so it looks like you're really catching
+the water in your hand.
+No problem.
+You can adjust at.
+There you go.
+Let's look at one more photo.
+This is a great photo.
+As a parent, you always want your kid
+at the center of it all.
+And it looks like the balloons got cut off in this one.
+So you can go ahead and reposition the birthday boy.
+Magic Editor automatically recreates
+parts of the bench and balloons that were not
+captured in the original shot.
+As a finishing touch, you can punch up the sky.
+It changes the lighting in the rest of the photo,
+so the edit feels consistent.
+It's truly magical.
+We are excited to roll out Magic Editor in Google Photos
+later this year.
+From Gmail and photos to maps, these
+are just a few examples of how AI can help you in moments
+that matter.
+And there is so much more we can do
+to deliver the full potential of AI
+across the products you know and love.
+Today we have 15 products that each
+serve more than half a billion people and businesses.
+And six of those products, serve over two billion users each.
+This gives us so many opportunities
+to deliver on our mission to organize the world's
+information and make it universally
+accessible and useful.
+It's a timeless mission that feels
+more relevant with each passing year.
+And looking ahead, making AI helpful for everyone
+is the most profound way we will advance our mission.
+And we are doing this in four important ways.
+First, by improving your knowledge
+and learning and deepening your understanding of the world.
+Second, by boosting creativity and productivity.
+So you can express yourself and get things done.
+Third, by enabling developers and businesses
+to build their own transformative products
+and services.
+And finally, by building and deploying AI responsibly,
+so that everyone can benefit equally.
+We are so excited by the opportunities ahead.
+Our ability to make AI helpful for everyone
+relies on continuously advancing our foundation models.
+So I want to take a moment to share
+how we are approaching them.
+Last year you heard us talk about PaLM,
+which led to many improvements across our products.
+Today we are ready to announce our latest PaLM model
+in production, PaLM 2.
+[APPLAUSE]
+PaLM 2 builds on our fundamental research and our latest
+infrastructure.
+It's highly capable at a wide range of tasks
+and easy to deploy.
+We are announcing over 25 products and features powered
+by PaLM 2 today.
+PaLM 2 models deliver excellent foundational capabilities
+across a wide range of sizes.
+We have affectionately named them Gecko, Otter,
+Bison, and Unicorn.
+Gecko so lightweight that it can work on mobile devices,
+fast enough for great interactive applications
+on device, even when offline.
+PaLM 2 models are stronger in logic and reasoning thanks
+to broad training on scientific and mathematical topics.
+It's also trained on multilingual text,
+spanning over 100 languages.
+So it understands and generates nuanced results.
+Combined with powerful coding capabilities,
+PaLM 2 can also help developers collaborating around the world.
+Let's look at this example.
+Let's say you're working with a colleague in Seoul,
+and you're debugging code.
+You can ask it to fix a bug and help out
+your teammate by adding comments in Korean to the code.
+It first recognizes the code is recursive, suggests a fix,
+and even explains the reasoning behind the fix.
+And as you can see, it added comments in Korean,
+just like you asked.
+While PaLM 2 is highly capable, it really
+shines when fine-tuned on domain-specific knowledge.
+We recently released Sec-PaLM, a version of PaLM
+to fine tune for security-use cases.
+It uses AI to better detect malicious scripts
+and can help security experts understand and resolve threats.
+Another example is Med-PaLM 2.
+In this case, it's fine-tuned on medical knowledge.
+This fine-tuning achieved a 9x reduction
+in inaccurate reasoning, when compared to the model,
+approaching the performance of clinician experts
+who answered the same set of questions.
+In fact, Med-PaLM was the first language model
+to perform at expert level on medical licensing exam-style
+questions and is currently the state of the art.
+We are also working to add capabilities to Med-PaLM 2,
+so that it can synthesize information
+from medical imaging, like plain films and mammograms.
+You can imagine an AI collaborator
+that helps radiologists interpret images
+and communicate the results.
+These are some examples of PaLM 2
+being used in specialized domains.
+We can't wait to see it used in more.
+That's why I'm pleased to announce that it is now
+available in Preview.
+And I'll let Thomas share more.
+PaLM 2 is the latest step in our decade-long journey
+to bring AI in responsible ways to billions of people.
+It builds on progress made by two world class teams,
+the Brain Team and DeepMind.
+Looking back at the defining AI breakthroughs
+over the last decade, these teams
+have contributed to a significant number of them,
+AlphaGo, Transformers, sequence to sequence models, and so on.
+All this helps set the stage for the inflection point
+we are at today.
+We recently brought these two teams together
+into a single unit, Google DeepMind.
+Using the computational resources of Google,
+they have focused on building more capable systems safely
+and responsibly.
+This includes our next generation foundation model,
+Gemini, which is still in training.
+Gemini was created from the ground up
+to be multi-modal, highly efficient tool in API
+integrations, and built to enable future innovation,
+like memory and planning.
+While still early, we are already
+seeing impressive multi-modal capabilities not seen
+in prior models.
+Once fine-tuned and rigorously tested for safety,
+Gemini will be available at various sizes and capabilities,
+just like PaLM 2.
+As we invest in more advanced models,
+we are also deeply investing in AI responsibility.
+This includes having the tools to identify synthetically
+generated content whenever you encounter it.
+Two important approaches are watermarking and metadata.
+Watermarking embeds information directly into content
+in ways that are maintained even through modest image editing.
+Moving forward, we are building our models
+to include watermarking and other techniques
+from the start.
+If you look at a synthetic image,
+it's impressive how real it looks.
+So you can imagine how important this
+is going to be in the future.
+Metadata allows content creators to associate additional context
+with original files, giving you more information whenever
+you encounter an image.
+We will ensure every one of our AI-generated images
+has that metadata.
+James will talk about our responsible approach
+to AI later.
+As models get better and more capable,
+one of the most exciting opportunities
+is making them available for people to engage with directly.
+That's the opportunity we have at Bard, our experiment
+for conversational AI.
+We are rapidly evolving Bard.
+It now supports a wide range of programming capabilities.
+And it's gotten much smarter at reasoning and math problems.
+And as of today, it is now fully running on PaLM 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
